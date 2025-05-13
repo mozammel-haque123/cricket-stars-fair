@@ -1,0 +1,167 @@
+[
+  {
+    "playerId": "P001",
+    "name": "Virat Kohli",
+    "country": "India",
+    "flag": "https://i.ibb.co.com/G41Zv6q1/images.jpg",
+    "image": "https://i.ibb.co.com/xKZVZNyd/649ec8780846ea001d308989.jpg",
+    "category": "Batsman All-Rounder",
+    "battingStyle": "Right-hand bat",
+    "biddingPrice": 1500000,
+    "runsScored": 12000
+  },
+  {
+    "playerId": "P002",
+    "name": "Joe Root",
+    "country": "England",
+    "flag": "https://i.ibb.co.com/zWvBV0wt/57.jpg",
+    "image": "https://i.ibb.co.com/DDPPy1dh/396579cc-f14f-4312-8cef-d6b2fe913f56.jpg",
+    "category": "Batsman All-Rounder",
+    "battingStyle": "Right-hand bat",
+    "biddingPrice": 1200000,
+    "runsScored": 10500
+  },
+  {
+    "playerId": "P003",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "flag": "https://i.ibb.co.com/Tqx6Bqx7/1734518245-3013.webp",
+    "image": "https://i.ibb.co.com/GQWpbSG4/l55320230805125126.webp",
+    "category": "Batsman All-Rounder",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": 1400000,
+    "runsScored": 9500
+  },
+  {
+    "playerId": "P004",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "flag": "https://i.ibb.co.com/YF5b2FgG/360-F-865604102-Jizf-L985yqj-Dxkb-P5t-Nwh-Rn-Xw-QHHYPr-X.jpg",
+    "image": "https://i.ibb.co.com/TMjf01FM/105251489.webp",
+    "category": "Batsman All-Rounder",
+    "battingStyle": "Right-hand bat",
+    "biddingPrice": 1300000,
+    "runsScored": 8900
+  },
+  {
+    "playerId": "P005",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "flag": "https://i.ibb.co.com/sdcNfgS9/images-1.jpg",
+    "image": "https://i.ibb.co.com/LdpWLdV4/steve-smith-getty-1741164714843-1741164719153.jpg",
+    "category": "Batsman All-Rounder",
+    "battingStyle": "Right-hand bat",
+    "biddingPrice": 1100000,
+    "runsScored": 9100
+  },
+  {
+    "playerId": "P006",
+    "name": "Ben Stokes",
+    "country": "England",
+    "flag": "https://i.ibb.co.com/zWvBV0wt/57.jpg",
+    "image": "https://i.ibb.co.com/35mXd4fb/5d2c63bf7ffc4.jpg",
+    "category": "All-Rounder",
+    "battingStyle": "Left-hand bat",
+    "biddingPrice": 2000000,
+    "runsScored": 5500
+  },
+  {
+    "playerId": "P007",
+    "name": "Hardik Pandya",
+    "country": "India",
+    "flag": "https://i.ibb.co.com/G41Zv6q1/images.jpg",
+    "image": "https://i.ibb.co.com/Q7wzQFs0/Hardik-Pandya-ODI-2.jpg",
+    "category": "All-Rounder",
+    "battingStyle": "Right-hand bat",
+    "biddingPrice": 1600000,
+    "wicketsTaken": 120
+  },
+  {
+    "playerId": "P008",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "flag": "https://i.ibb.co.com/zhV1sGJR/64158ae4dc880198e16de1c0ec43d271.jpg",
+    "image": "https://i.ibb.co.com/kgvXW5Lm/9ae1265d7cb2479b9f3e04824f21d7f2.png",
+    "category": "Bowler All-Rounder",
+    "bowlingStyle": "Right-arm legbreak",
+    "biddingPrice": 1700000,
+    "wicketsTaken": 320
+  },
+  {
+    "playerId": "P009",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "flag": "https://i.ibb.co.com/G41Zv6q1/images.jpg",
+    "image": "https://i.ibb.co.com/4nrQBL3L/Whats-App-Image-2024-05-29-at-06-44-23.webp",
+    "category": "Bowler All-Rounder",
+    "bowlingStyle": "Right-arm fast",
+    "biddingPrice": 2100000,
+    "wicketsTaken": 290
+  },
+  {
+    "playerId": "P010",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "flag": "https://i.ibb.co.com/sdcNfgS9/images-1.jpg",
+    "image": "https://i.ibb.co.com/ZztDH6DL/images-3.jpg",
+    "category": "Bowler All-Rounder",
+    "bowlingStyle": "Right-arm fast",
+    "biddingPrice": 2300000,
+    "wicketsTaken": 280
+  },
+  {
+    "playerId": "P011",
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "flag": "https://i.ibb.co.com/Tqx6Bqx7/1734518245-3013.webp",
+    "image": "https://i.ibb.co.com/rfNf9Bbk/c-NKy-Cb-S9-B4.webp",
+    "category": "Bowler All-Rounder",
+    "bowlingStyle": "Left-arm fast",
+    "biddingPrice": 1800000,
+    "wicketsTaken": 180
+  },
+  {
+    "playerId": "P012",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "flag": "https://i.ibb.co.com/5WMwPFdT/download.jpg",
+    "image": "https://i.ibb.co.com/fdthFzGR/3500.webp",
+    "category": "All-Rounder",
+    "battingStyle": "Left-hand bat",
+    "biddingPrice": 1900000,
+    "runsScored": 7000
+  },
+  {
+    "playerId": "P013",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "flag": "https://i.ibb.co.com/YF5b2FgG/360-F-865604102-Jizf-L985yqj-Dxkb-P5t-Nwh-Rn-Xw-QHHYPr-X.jpg",
+    "image": "https://i.ibb.co.com/HLPX4ymX/4-M0-UZKF-image-crop-134078.webp",
+    "category": "Bowler All-Rounder",
+    "bowlingStyle": "Left-arm fast",
+    "biddingPrice": 1400000,
+    "runsScored": 500
+  },
+  {
+    "playerId": "P014",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "flag": "https://i.ibb.co.com/KpfsTBXQ/images-2.jpg",
+    "image": "https://i.ibb.co.com/bM5BznZS/1697685131-sa.gif",
+    "category": "Wicket Keeper",
+    "battingStyle": "Left-hand bat",
+    "biddingPrice": 1500000,
+    "runsScored": 8000
+  },
+  {
+    "playerId": "P015",
+    "name": "David Warner",
+    "country": "Australia",
+    "flag": "https://i.ibb.co.com/sdcNfgS9/images-1.jpg",
+    "image": "https://i.ibb.co.com/QFzvdMWY/download-1.jpg",
+    "category": "Batsman All-Rounder",
+    "battingStyle": "Left-hand bat",
+    "biddingPrice": 1300000,
+    "runsScored": 9500
+  }
+]
