@@ -16,8 +16,8 @@ className='w-full mx-auto h-[350px] bg-cover bg-center rounded-xl bg-white bg-no
     <p className='font-medium text-2xl mt-3'>Get the latest updates and news right in your inbox!</p>
   </div>
 
-    <div className="flex justify-center items-center gap-4 mt-4">
-     <div><input className='text-gray-600 bg-white w-[400px] h-[56px] p-4 rounded-2xl border border-gray-300' type="email" name="" id="" placeholder='Enter your email' /></div>
+    <div className="flex justify-center items-center md:gap-4 sm:gap-1 mt-4">
+     <div><input className='text-gray-600 bg-white md:w-[400px]  h-[56px] p-4 rounded-2xl border border-gray-300' type="email" name="" id="" placeholder='Enter your email' /></div>
      <div><button className="btn bg-gradient-to-r from-pink-400 via-yellow-400 to-yellow-300 text-black font-bold p-6 rounded-xl shadow-md">
   Subscribe
 </button>

@@ -10,7 +10,8 @@ export default function MultipalCoponent({handaleActive,isActive,
   return (
     <div className="w-11/12 mx-auto">
 
-    <div className="flex lg:gap-[590px] sm:gap-27 items-center  sticky top-18 z-50 bg-white bg-opacity-90 backdrop-blur-md p-4 rounded-md">
+    <div className="flex lg:gap-[590px] sm:gap-[27px] items-center sticky top-[210px] md:top-[60px] z-50 bg-white bg-opacity-90 backdrop-blur-md p-4 rounded-md"
+>
 
         {
             

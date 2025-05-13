@@ -6,12 +6,12 @@ export default function Navver({coin}) {
       <div className="flex flex-col md:flex-row justify-between items-center my-4 ">
         <div><img src={logo} alt="logo img" /></div>
 
-        <div className='flex items-center gap-12 mr-24'>
+        <div className='flex md:flex-row flex-col sm:gap-4 items-center md:gap-12 md:mr-24'>
             <p className="font-semibold text-base text-gray-600">Home</p>
             <p className="font-semibold text-base text-gray-600">Fixture</p>
             <p className="font-semibold text-base text-gray-600">Teams</p>
             <p className="font-semibold text-base text-gray-600">Schedules</p>
-
+           
             <button className="btn flex items-center gap-4 text-black font-bold text-base">{coin} Coin <span className="text-amber-600 text-2xl"><BsCoin /></span></button>
         </div>
       </div>
@@ -19,5 +19,3 @@ export default function Navver({coin}) {
     </div>
   )
 }
-
-// bg-stone-100  p-7 sticky top-0 backdrop-blur-xl bg-white/30 bg-opacity-10 shadow-md z-50 

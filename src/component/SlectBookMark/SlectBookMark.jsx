@@ -33,15 +33,5 @@ export default function SlectBookMark({plaiyer,deletPliiyears}) {
   )
 }
 
-// playerId
-// name
-// country
-// flag
-// image
-// category
-// battingStyle
-// biddingPrice
-// runsScored
-
 
  
